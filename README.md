@@ -23,3 +23,11 @@ uv sync
 ```bash
 uv run main.py
 ```
+
+### How to Play
+
+* W — Move forward
+* S — Move backward
+* A — Rotate left
+* D — Rotate right
+* Space — Shoot
