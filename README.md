@@ -24,7 +24,7 @@ uv sync
 uv run main.py
 ```
 
-### How to Play
+## How to Play
 
 * W — Move forward
 * S — Move backward
